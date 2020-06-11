@@ -1,0 +1,22 @@
+
+#reset-div {
+    text-align: center;
+    padding: 30px;
+}
+
+#container {
+    width: 960px;
+    height: 960px;
+    outline: 2px solid black;
+    margin: 0 auto;
+}
+
+.grid {
+    display: inline-block;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+    outline: 1px solid black;
+    font-size: 0;
+
+}
